@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdac84e9-4b56-432f-a110-1b629116c5b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dhoni/BBQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dhoni/Headphones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dhoni/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dhoni/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dhoni/PersonMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dhoni/Shirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dhoni/Tut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dhoni/bubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dhoni/insertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dhoni/pen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dhoni/pizzaConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dhoni/pizzaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dhoni/practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dhoni/recursion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dhoni/recursion3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dhoni/recursion4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dhoni/selectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BCyZw11hyhqOPF9njgy5DCCUa9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="loguuu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Tut">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dhoni.Main" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dhoni.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dhoni.PersonMain" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dhoni.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dhoni.Tut" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dhoni.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="personMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dhoni.personMain" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dhoni.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dhoni.practice" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dhoni.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="recursion4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dhoni.recursion4" />
+      <module name="FirstProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dhoni.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tut" />
+        <item itemvalue="Application.practice" />
+        <item itemvalue="Application.PersonMain" />
+        <item itemvalue="Application.personMain" />
+        <item itemvalue="Application.recursion4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdac84e9-4b56-432f-a110-1b629116c5b3" name="Changes" comment="" />
+      <created>1656424421086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656424421086</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FirstProject$WhileLoop.ic" NAME="WhileLoop Coverage Results" MODIFIED="1656861414905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>loguuu.*</FILTER>
+    </SUITE>
+  </component>
+</project>
